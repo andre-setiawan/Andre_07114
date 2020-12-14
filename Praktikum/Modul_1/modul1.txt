@@ -1,0 +1,1 @@
+pada praktikum pertama ini membahas tentang dasar" program java mulai dari pembuatan class, class diagram, dan tipedata yajng ada pada pemrograman java.
